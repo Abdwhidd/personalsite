@@ -1,0 +1,16 @@
+.nopadding{
+    padding: 0!important;
+    padding-right: 0!important;
+    padding-left: 0!important;
+}
+
+.nomargin{
+    margin: 0 !important;
+}
+
+body{
+    background-color: #0E0E0E;
+    color: #fff;
+    overflow-x: hidden;
+    font-family: Taviraj;
+}
